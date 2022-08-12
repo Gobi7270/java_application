@@ -1,2 +1,0 @@
-# java_application
-application
